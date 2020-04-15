@@ -1,6 +1,4 @@
 #Set the working directory
-setwd("C:/Users/pranita.patil/Documents/Hackathon/Height_Weight_Gender")
-
 #Read the data
 data <- read.csv("weight-height.csv")
 
